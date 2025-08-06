@@ -1,0 +1,19 @@
+.IndividualPledgeCountryhouse .LendingToIndividuals_pledge__h1 h1:nth-child(1) {
+    width: 1000px;
+}
+.IndividualPledgeCountryhouse .LendingToIndividuals_pledge__h1 div h1:nth-child(1) {
+    width: auto;
+}
+
+.PreHeaderLinks {
+    text-wrap: nowrap;
+}
+
+
+.InvestorPledgeCountryHouse .LendingToIndividuals_pledge__h1 h1:nth-child(1) {
+    width: 1000px;
+}
+.InvestorPledgeCountryHouse .LendingToIndividuals_pledge__h1 div h1:nth-child(1) {
+    width: auto;
+}
+

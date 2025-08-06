@@ -1,0 +1,35 @@
+
+.button-1,.button-2 {
+    position: fixed;
+    scale: 1.2;
+    border: 0;
+    background-color: transparent;
+    transition: 0.3s all;
+    z-index: 99999999999999999999999999999999;
+}
+
+.button-1 {
+    left: 100px;
+    top: 450px;
+    display: none !important;
+
+}
+
+.button-2 {
+    top: 450px;
+    right: 100px;
+
+    display: none !important;
+}
+
+.button-1:hover {
+    scale: 1.5;
+}
+
+.button-2:hover {
+    scale: 1.5;
+}
+
+.ConditionSection section .row-1 {
+    margin-bottom: 80px !important;
+}
